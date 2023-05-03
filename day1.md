@@ -8,7 +8,23 @@ __Topic__: Building High-Performing Teams: The crucial Role of Psychological Saf
 
 __Takeaways__:
 
-- TODO
+- "It's okay to fail" is the baseline. Having a Fail Fest is on the other end of the spectrum
+- "Yes, and ..." - have open conversations
+- Everyone is looking out for others to improve and get better at what they do. Leads to Growth acceleration.
+
+Summary:
+
+- Psychological safety is the foundation for innovative, efficient and fun teams
+- Remember: we are all just mammals with a sensitive nervous system
+- And this is what helps us feel safe:
+  - Failure = ok
+  - Have open conversations
+  - Be willing to help
+  - Embrace diversity, equity & inclusion
+
+__New Tools__:
+
+- https://my.manualof.me/
 
 
 ## Talk 1
