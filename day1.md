@@ -212,9 +212,97 @@ Prioritization:
 
 __Topic__: Engineering Lead Masterclass
 
-__Takeaways__:
+- How to measure lead time? => Little's Law
+  - Process lead time (PLT) is equivalent to the work in process (WIP) divided by the exit rate (ER). For example, if you have 20 widgets in process and they exit the line at 2 every minute, then you have a process lead time of 10 minutes.
 
-- TODO
+Ladder examples:
+
+Example 1:
+
+- Work hard
+- Hire hard working people
+- Remove impediments
+- Empower teams to see/priorize/remove its own impediements
+
+Example 2:
+
+- Write code!
+- Control quality (PR, pairing)
+- Build a culture of technical excellence
+- Hire someone bettere than yourself to do it
+
+### Apply second order thinking
+
+- First order: I'll fix this problem. Solution oriented, fast and easy.
+- Second order: And then what? More deliberate.
+- System Impact: How will this affect the system of work?
+
+### Mentors Toolbox
+
+1. Encourage
+  - Help people fight self-doubt.
+  - You can do it!
+  - Thank them (ask if they're okay with public praise). Be sure to make it: "Thank you $name for $explicitReason"
+  - Support initiative!
+2. Challenge
+  - Delegate technical work and non-technical work.
+  - Delegate tasks that maximise learning (trade off with speed)
+  - Delegate the most interesting work.
+3. Coaching
+  - Don't solve their problems, ask questions.
+  - We'll do an exercise on this in a bit.
+4. Share
+  - Knowledge
+  - Energy
+  - Optimism
+5. Set rules
+  - Less control, more systems.
+  - WIP Limits
+  - Build it & run it
+  - CI with daily push to trunk
+  - Every time a new pair to spread knowledge and team work
+6. Do things together
+  - Pair on anything! Code, architecture, conflict resolution, etc.
+
+### How to build trust
+
+Trust is the most important thing to build!
+
+- Your knowledge
+- Your consistency
+- Your authority
+- Your confidence
+- Your market value
+- Your ability to manage anxiety
+
+### Recruiting
+
+__Improve quality of candidates by being visible__
+
+- People should know what you do, what technologies you use or create.
+- Spread this by sharing at local meetups (or in the remote world, online ones).
+- Attract candidates that have the right attitude which in return will drive away bad candidates in the future (protect your culture!).
+
+
+Tip: Avoid Dunning Krugers!
+
+__Job ad do's and dont's__
+
+Don't do this:
+
+- Hard requirements like 3+ years of k8s experience
+- "Strong understanding", "experts" or "deep knowledge"
+
+Do this
+
+- Describe your environment
+- What tech are you currently using or thinking of using?
+- What will you actually be doing in this role?
+- Unfamiliar with some of the tech? Apply anyway!
+
+#### Retention
+
+> One tip to rule them all: Turn seniors into mentors.
 
 ## Evening Keynote
 
