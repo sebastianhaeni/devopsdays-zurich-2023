@@ -81,13 +81,35 @@ __Topic__: From a Backend Developer to DevOps - THE FORCE AWAKENS
 
 __Takeaways__:
 
+- Active learning: Create diagrams when you're learning.
+- Introduction of using k8s at a company:
+  - Do Discovery sessions: With each team - before & during migration process. See what they need.
+  - Get Documentation Feedback - on each part of the k8s guide.
+
+Milestones:
+
+- Learn
+- Listen
+- Level Up
+
 ## Talk 3
 
 __Topic__: Bridging Dev and Ops with eBPF: Extending Observability Upwards and Downwards
 
 __Takeaways__:
 
-- TODO
+- What Javascript is to the browser, eBPF is to the Linux kernel.
+- eBPF-powered networking & security can bring cloud native observability & routing
+- Cilium
+  - replace IPtables
+  - repace sidecar proxy for service mesh
+- Hubble
+  - fine-grained network observability (from the kernel)
+  - exports to SIEM
+  - support for OpenTelemetry
+- Parca: Contiunous profiling https://www.parca.dev/
+
+
 
 ## Talk 4
 
@@ -95,7 +117,51 @@ __Topic__: Priorities - the art of saying no
 
 __Takeaways__:
 
-- TODO
+- Time is a __finite__ resource
+- Urgency is a __trap__
+- Urgent-important matrix / Eisenhower Matrix
+
+|                   | Urgent   | Not urgent |
+|-------------------|----------|------------|
+| __Important__     | Do       | Plan       |
+| __Not important__ | Delegate | Eliminate  |
+
+1. Do: Simply do
+2. Plan: Spend 10-20% of time
+3. Delegate: Don't do. Find someone else to do it.
+4. Eliminate: Simply don't do.
+
+How do we know something is important?
+
+- There is no such thing as absolute importance.
+- Question to ask: Does this thing directly contribute to my goal?
+  - Yes: Important
+  - No: Enabler for my goal?
+    - Yes: Important
+    - No: Not important
+
+> Without a __goal__, nothing is __important__.
+
+Strategy:
+
+- Follow the __value__
+- Find important stakeholder
+- Important is what thing brings value to stakeholder
+
+Questions to ask:
+
+- ROI Analysis: Time to value ratio
+- Next best alternative considerations
+- If I do this, what will I __not__ do?
+
+> Prioritization means saying "no" ... more times than saying "yes".
+
+Prioritization:
+
+- What should I drop or postpone to do this?
+- How does this request fit into our goal?
+- What should I do __first__?
+
 
 
 ## Ignite Talks (each 5 minutes)
@@ -111,3 +177,18 @@ __Takeaways__:
 - Platform Teams and Innersource, how to foster acceptance and generate synergies
   - TODO
 
+## Workshop
+
+__Topic__: Engineering Lead Masterclass
+
+__Takeaways__:
+
+- TODO
+
+## Evening Keynote
+
+__Topic__: DevOps - like Riding a Bike or rather like Playing Golf?
+
+__Takeaways__:
+
+- TODO
