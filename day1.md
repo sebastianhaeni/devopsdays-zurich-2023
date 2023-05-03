@@ -167,15 +167,46 @@ Prioritization:
 ## Ignite Talks (each 5 minutes)
 
 - 6 years and 15 meetups later - how to organize a (DevOps) meetup
-  - TODO
+  - Success Factors: 
+    - #1 Values (local meetup, no online meetups, experience reports)
+    - #2 Know your Crowd => do a survey
+    - #3 Gather Interest. Keep talk duration short. Do survey for interests
+    - #4 A diverse organizing team
+    - #5 Get the word out. Continuoualy and repeatably announce it.
+  - What did not work
+    - Organizing apero themselves
+    - Locations far away from the city center
+  - First steps
+    - Contribute a talk first
+    - Organize within own organization
 - DevOps, ClickOps, GitOps, CloudOps, AIOps… making sense of the Buzzword-Bingo in 5 min.
-  - TODO
+  - BizDevOps: DevOps already includes Business. BizDevOps just means they are focusing on business or that business is the biggest challenge
+  - GitOps and {x}-as-code: Tooling
+  - SRE & Platform engineering: Scale DevOps.
 - Enabling true DevOps organizations with Value Stream Management
-  - TODO
+  - hm
 - Full-stack DevOps engineers: a myth?
-  - TODO
+  - What skills and traits to look for
+    - Eager to make things work
+    - Excited about technical challenges
+    - Strong sense of ownership
 - Platform Teams and Innersource, how to foster acceptance and generate synergies
-  - TODO
+  - How to get acceptance for internal platforms (API mgmt, CI/CD, etc)
+  - Do's
+    - Transparency: Code, Test, Issue management etc open
+    - Classic product ownership
+    - Decentralized development
+    - Rules
+    - Managing different stakeholders
+  - Don't do:
+    - No dedicated resources
+    - Low/no quality
+    - Closed door policies
+    - Do not babysit users
+- GitHopes & Terrorforms
+  - Decoupled pipelines
+  - Decoupled teams
+  - Decoupled git repos
 
 ## Workshop
 
