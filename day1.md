@@ -33,16 +33,53 @@ __Topic__: Reporting on Reliability - Improving stakeholder conversations
 
 __Takeaways__:
 
-- TODO
+- The goal is not 100% uptime.
+- Incident steps
+  - What the heck?! => Incident status
+  - What was that? => Postmortem
+  - How's it going? => Periodic reviews
 
+__Real-time incident managemenet__:
+
+- Use chat
+- Use live document (i.e. Google Docs)
+- External people read the chat & doc, they don't ask questions
+- People can offer help, but the response team first has to ack' for them to start helping
+
+__Periodic Reviews__:
+
+- Don't focus on incident counts. Each incident is unique
+- Do focus on aggregated impact of incidents
+  - Revenue lost
+  - Error budget burned
+  - Blast radius
+  - Teams/Services affected
+  - Look for patterns
+- Look back: Team health
+  - People: Does the team have the right mix of skills? What training can we offer?
+  - Cognitive load: Is the team at capacity, or can they onboard additional services?
+  - Toil: Are we doing the right amount? Are we learning from it?
+  - Interrupts: Consder a paging "budget", (e.g. max 2 per on-call shift)
+  - Morale: A happy team is a reliable team
+
+__Look ahead__:
+
+- Forecast demand
+  - What capacity will be needed?
+  - What other factors will become relevant?
+- Forecast: work to be done
+  - What's in the reliability backlog? What might prevent it from getting prioritized?
+- Plans
+  - Are stakeholders expecting improved reliability? Can we achieve it?
+  - What launches are coming, for this team or related teams?
+  - What known future bottlenecks/deprecations/etc can we prepare for?
+  - How does the team's work align to (ongoing or emerging) organizational strategy?
 
 ## Talk 2
 
 __Topic__: From a Backend Developer to DevOps - THE FORCE AWAKENS
 
 __Takeaways__:
-
-- TODO
 
 ## Talk 3
 
