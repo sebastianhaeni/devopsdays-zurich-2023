@@ -74,43 +74,102 @@ __Takeaways__:
 
 __Topic__: Development process of Cloud native applications - a story of transformation
 
-
 __Takeaways__:
 
-TODO
+- Confidently: single trunk
+- Deliver changes: feature driven developer process changes
+- Daily: daily deployment to production
+
+Conclusion:
+
+- => Build a paved road.
+
+__Ideas__:
+
+- Integrate the following into a developer portal:
+  - Feature Toggles
+  - Environments, Deployments, Configuration
+
+__Tools__:
+
+- [CNCF Landscape](https://landscape.cncf.io/)
+
 
 ## Talk 3
 
 __Topic__: Effective Observability in Microservice Architectures
 
-
 __Takeaways__:
 
-TODO
+- Make building observable services easy
+- Support engineers in refining their skills
+  - Standardize on-call training. Make sure it's clear what it means to be on-call.
+- Embed observability into your culture
+
+
+- Culture change should happen both bottom-up and top-down at the same time.
+
+Best practices:
+
+- Event-driven telemetry
+- Standardize instrumentation
+- Use auto instrumentation first
+- Use manual instrumentation strategically
+
+How to choose a tool?
+
+- What observability gap does it fill?
+- How compatible is it with our platform vision?
+- How easy is it to use?
+- Does it provide our support needs?
 
 ## Talk 4
 
 __Topic__: Compliance by design | Continuous Compliance
 
-
 __Takeaways__:
 
-TODO
+Lessons:
+
+- Compliance will get more complex.
+- Compliance is valuable (beyond getting sued).
+- Compliance is optional (to a degree).
+
+Conclusions:
+
+=> Shift left compliance.
+
+Summary:
+
+- Agile compliance is possible
+- Think broad
+- Ensure shared objectives
+- Shift culture and process
+- Think DevOps
+
+__Links__:
+
+- https://www.beautifulabstraction.com/compliance-by-design/
 
 ## Ignite Talks (each 5 minutes)
 
 - The symbiosis of Continuous Deployment and Stability
-  - TODO
+  - Quality brings Speed. And Speed brings Quality.
 - What Is Great About a Modern Monolithic Application?
-  - TODO
+  - Positive: One repo, one endpoint, one binary, one command, one deployment, one build command, one CI pipeline, one doc, one version
+  - Negative: No feature subset, no "simple" mode. Though: Dev vs Prod mode
 - The Neuroscience of Communities
-  - TODO
+  - Serotonin
 - The big 3 in automation: Playwright vs Cypress vs Selenium
-  - TODO
+  - Selenium: Cool, many browsers through drivers
+  - Cypress: Cool, same language as frontends, no drivers, but only one tab.
+  - Playwright: Uses Websockets to issue commands to browser (fast), but it's limited as it's new.
 - Jumping from Bi-Monthly to Daily Releases: Our Journey
-  - TODO
+  - Story time.
 - From Dev || Sec to Dev && Sec
-  - TODO
+  - Shift left security
+  - Invest in the culture.
+  - Invest in the right tools and automation.
 - The environmental impact of software
-  - TODO
-
+  - CO2 reduction measures in order of impact
+  - [Estimator](https://github.com/abeggchr/environmental-impact-estimator)
