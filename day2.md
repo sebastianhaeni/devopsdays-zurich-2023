@@ -9,7 +9,33 @@ __Topic__: Developer Productivity Engineering – The Next Big Thing in Software
 
 __Takeaways__:
 
-TODO
+- [Coding War Games](https://fs.blog/increasing-the-productivity-of-computer-programmers-and-engineers). Goal: Figure out good traits of efficient developers
+  - Non-Factors: Programming Language, Years of Experience, Defects, Salary
+  - Factors:
+    - Paired programmers from the same org performed at roughly the same level
+    - Average difference was only 21% between paired programmers
+    - They didn't work together on the task.
+    - Difference between developers of different organizations was 1:10
+  - Conclusion: 
+    - Some companies are doing a lot worse than others.
+    - It comes down to developer experience at a company.
+    - 10x engineering is manufactured, not born.
+- DPE - Developer Productivity Engineering - should be a core discipline at every company
+- Predictive Test Selection - Use ML to select which tests to run. Only use pre-merge!
+  - [White Paper](https://research.facebook.com/publications/predictive-test-selection/)
+- Correct question to ask: Is the (feedback) cycle as fast as it can possibly be?
+- Idea: Measure local build time and failure rates across organization.
+
+> It is staggering with how much toil, friction and frustrations engineers are willing to put up with.
+
+> The world should foster developer joy.
+
+
+__Book Recommendations__:
+
+- Peopleware: Productive Projects and Teams
+- [Developer Productivity Engineering Handbook](https://gradle.com/developer-productivity-engineering/handbook/)
+- Phoenix Project or The Goal
 
 ## Talk 1
 
