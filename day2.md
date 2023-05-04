@@ -41,10 +41,34 @@ __Book Recommendations__:
 
 __Topic__: Great Security is One Question Away
 
-
 __Takeaways__:
 
-TODO
+- Sanitize and Validate the Input - check what you get from your user. Remember what is your biggest asset and protect it.
+- Hire Robots - it is unfair and unrealistic to expect developers to remember about every edge case. Delegate and automate security using DAST and SAST scanners.
+- CIA Triad
+  - Confidentiality: We want secrets to be secret.
+    - Who can see this resource?
+    - How do we store credentials?
+    - Do we put sensitive data into logs?
+  - Integrity: We get what we expect.
+    - Who can create, update, remove a resource?
+    - Do we have a way to see a potentially malicious actor who deletes all resources at once?
+    - What if someone sends malicious data via form to perform an SQL injection?
+  - Availability: We can always access the information.
+    - Is this endpoint rate-limited?
+    - What happens when an external product we rely on is unavailable?
+    - How is a database migration performed? Is there a need for a maintenance window?
+    - Is a person on support and on-call informed about this?
+
+> The one question to ask: How can the CIA of this project be broken?
+
+- When should we ask this question?
+  - => Shift left security. Do it during design phase.
+- How to implement CIA Triad?
+  - Present it to your peers.
+  - Discuss it with your team.
+  - Make it part of your process.
+  - Add it to doc templates
 
 ## Talk 2
 
