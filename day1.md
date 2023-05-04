@@ -59,7 +59,7 @@ __Periodic Reviews__:
   - People: Does the team have the right mix of skills? What training can we offer?
   - Cognitive load: Is the team at capacity, or can they onboard additional services?
   - Toil: Are we doing the right amount? Are we learning from it?
-  - Interrupts: Consder a paging "budget", (e.g. max 2 per on-call shift)
+  - Interrupts: Consider a paging "budget", (e.g. max 2 per on-call shift)
   - Morale: A happy team is a reliable team
 
 __Look ahead__:
@@ -109,7 +109,12 @@ __Takeaways__:
   - support for OpenTelemetry
 - Parca: Contiunous profiling https://www.parca.dev/
 
+__Tools__:
 
+- [eBPF](https://ebpf.io/)
+- [Cilium](https://cilium.io/)
+- [Hubble](https://github.com/cilium/hubble)
+- [Tetragon](https://github.com/cilium/tetragon)
 
 ## Talk 4
 
@@ -184,7 +189,7 @@ Prioritization:
   - GitOps and {x}-as-code: Tooling
   - SRE & Platform engineering: Scale DevOps.
 - Enabling true DevOps organizations with Value Stream Management
-  - hm
+  - Presentation had too much content. I could not grasp the key takeaways.
 - Full-stack DevOps engineers: a myth?
   - What skills and traits to look for
     - Eager to make things work
@@ -193,7 +198,7 @@ Prioritization:
 - Platform Teams and Innersource, how to foster acceptance and generate synergies
   - How to get acceptance for internal platforms (API mgmt, CI/CD, etc)
   - Do's
-    - Transparency: Code, Test, Issue management etc open
+    - Transparency: Code, Test, Issue management, etc. => open
     - Classic product ownership
     - Decentralized development
     - Rules
@@ -204,9 +209,11 @@ Prioritization:
     - Closed door policies
     - Do not babysit users
 - GitHopes & Terrorforms
-  - Decoupled pipelines
-  - Decoupled teams
-  - Decoupled git repos
+  - Benefits of Gitops:
+    - Decoupled pipelines
+    - Decoupled teams
+    - Decoupled git repos
+  - There is just an awful lot of YAML out there in the world.
 
 ## Workshop
 
@@ -237,7 +244,8 @@ Example 2:
 - Second order: And then what? More deliberate.
 - System Impact: How will this affect the system of work?
 
-### Mentors Toolbox
+### Mentors Toolbox
+
 
 1. Encourage
   - Help people fight self-doubt.
@@ -250,7 +258,6 @@ Example 2:
   - Delegate the most interesting work.
 3. Coaching
   - Don't solve their problems, ask questions.
-  - We'll do an exercise on this in a bit.
 4. Share
   - Knowledge
   - Energy
@@ -304,10 +311,18 @@ Do this
 
 > One tip to rule them all: Turn seniors into mentors.
 
+### Book Recommendations
+
+- Team Topologies
+- Thinking Fast and Slow
+- Drive: The Surprising Truth About What Motivates Us
+
 ## Evening Keynote
 
 __Topic__: DevOps - like Riding a Bike or rather like Playing Golf?
 
 __Takeaways__:
 
-- TODO
+- Migros is using SAFe
+- Transforming is hard at large scale
+- Don't waste too much of your time with the long tail of teams lagging behind
