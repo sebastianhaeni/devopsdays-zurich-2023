@@ -39,7 +39,7 @@ __Takeaways__:
   - What was that? => Postmortem
   - How's it going? => Periodic reviews
 
-__Real-time incident managemenet__:
+__Real-time incident management__:
 
 - Use chat
 - Use live document (i.e. Google Docs)
